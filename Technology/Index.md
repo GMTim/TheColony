@@ -8,3 +8,5 @@
 - Labratories
 - Sensors
 
+---
+[Back](../)
