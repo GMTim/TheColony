@@ -9,4 +9,8 @@ _**Resources Are Low**_
 
 The colony ships have made it here using most of the resources they could carry. Thankfully there is a whole solar system worth of resources to exploit.
 
+_**Experimental Technology**_
+
+Most of the technology brought by the colonists have never been used in this way. What could possibly go wrong?
+
 [Back](./)
