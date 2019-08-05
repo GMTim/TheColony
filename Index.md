@@ -1,4 +1,5 @@
 # The Colony
 
-## [Locations](./Locations/Index.md)
-## [Technology](./Technology/Index.md)
+### [The Game](TheGame.md)
+### [Locations](./Locations/Index.md)
+### [Technology](./Technology/Index.md)

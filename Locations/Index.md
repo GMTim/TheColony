@@ -1,9 +1,7 @@
-# RDT39874
-## Unnamed Solar System
+# Locations
 
-## Planetary Bodies
-
-## Non-Planetary Objects
+### Worlds
+- [Unnamed World In Habitable Zone](UnnamedHabitableWorld.md)
 
 ---
 [Back](../)
