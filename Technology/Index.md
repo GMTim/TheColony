@@ -1,5 +1,6 @@
 # Technology
 
+### Ideas
 - AI
 - 3d Printers
 - Faster Then Light Communications
